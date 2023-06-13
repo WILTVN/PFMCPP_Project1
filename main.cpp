@@ -53,11 +53,11 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 //  1)
 //  Noun: Athlete
-//  action 1: lifts weights in the gym.
+//  action 1: lifts weights
 athlete.liftsWeights();
 //  action 2: runs a race.
 athlete.runsRace();
-//  action 3: eats healthy meals
+//  action 3: eats healthy
 athlete.eatsHealthy();
 
 //  2)
@@ -71,12 +71,12 @@ farmer.feedsGoats();
 
 //  3)
 //  Noun: Data Scientist
-//  action 1: Analyze large amounts of data
+//  action 1: Analyze data
 dataScientist.analyzeData();
-//  action 2: Cleans and processes raw data
-dataScientist.cleanData();
-//  action 3: Builds and models based on data
-dataScientist.modelData();
+//  action 2: Cleans data
+dataScientist.cleansData();
+//  action 3: Builds models
+dataScientist.modelModels();
 
 //  4)
 //  Noun: Gardener
@@ -84,12 +84,12 @@ dataScientist.modelData();
 gardener.plantsFlowers();
 //  action 2: a gardener maintains a garden
 gardener.maintainsGarden();
-//  action 3: a gardener controls pests to help plants grow
+//  action 3: a gardener controls pests
 gardener.controlsPest();
 
 //  5)
 //  Noun: Surgeon 
-//  action 1: a surgeon performs surgical procedures
+//  action 1: a surgeon performs surgeries
 surgeon.performsSurgeries();
 //  action 2: a surgeon washes his hands.
 surgeon.washesHands();
