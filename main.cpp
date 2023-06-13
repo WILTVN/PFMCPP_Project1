@@ -52,31 +52,31 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun: athlete
-//  action 1: an athlete trains in the gym.
-athlete.trains();
-//  action 2: an athlete competes in sporting events.
-athlete.competes();
-//  action 3: an  athlete maintains a healthy lifestyle such as good nutrition and rests.
+//  Noun: Athlete
+//  action 1: lifts weights in the gym.
+athlete.liftsWeights();
+//  action 2: runs a race.
+athlete.runsRace();
+//  action 3: eats healthy meals
 athlete.eatsHealthy();
 
 //  2)
 //  Noun: farmer
 //  action 1: a farmer harvests crops.
-farmer.harvest();
-//  action 2: a farmer raises livestock.
-farmer.raises();
-//  action 3: a farmer manages a farm operations.
-farmer.manages();
+farmer.harvestCrops();
+//  action 2: a farmer milks cows.
+farmer.milksCows();
+//  action 3: a farmer feeds goats.
+farmer.feedsGoats();
 
 //  3)
-//  Noun: Musician
-//  action 1: a musician plays an instrument
-musician.playsInstrument();
-//  action 2: a musician composes music
-musician.composesMusic();
-//  action 3: a musician perfroms in concerts.
-musician.performsConcerts();
+//  Noun: Data Scientist
+//  action 1: Analyze large amounts of data
+dataScientist.analyzeData();
+//  action 2: Cleans and processes raw data
+dataScientist.cleanData();
+//  action 3: Builds and models based on data
+dataScientist.modelData();
 
 //  4)
 //  Noun: Gardener
@@ -91,10 +91,10 @@ gardener.controlsPest();
 //  Noun: Surgeon 
 //  action 1: a surgeon performs surgical procedures
 surgeon.performsSurgeries();
-//  action 2: a surgeon diagnoses medical conditions.
-surgeon.diagnoses();
-//  action 3: a surgeon provides patient care.
-surgeon.providesCare();
+//  action 2: a surgeon washes his hands.
+surgeon.washesHands();
+//  action 3: a surgeon stitches wounds
+surgeon.stitchesWounds();
 
 //  6)
 //  Noun: Driver
@@ -109,17 +109,17 @@ driver.transportsGoods();
 //  Noun: Engineer
 //  action 1: designs structures
 engineer.designsStructures();
-//  action 2: solves problems
-engineer.solvesproblems();
-//  action 3: collaborates with a team
-engineer.collaborates();
+//  action 2: draws plans
+engineer.drawsPlans();
+//  action 3: measure distances
+engineer.measureDistances();
 
 //  8)
 //  Noun: Detective
 //  action 1: investigates crimes
-detective.investigates();
+detective.investigatesCrimes();
 //  action 2: gathers evidence
-detective.gathersEvidenc();
+detective.gathersEvidence();
 //  action 3: develops theories
 detective.developsTheories();
 
@@ -129,17 +129,17 @@ detective.developsTheories();
 writer.writesBooks();
 //  action 2: conducts research
 writer.conductsResearch();
-//  action 3: edits and revises their work
-writer.edits();
+//  action 3: edits work
+writer.editsWork();
 
 //  10)
 //  Noun: Actor
-//  action 1: performs in movies and television shows
-actor.performs();
+//  action 1: studies a script
+actor.studiesScript();
 //  action 2: rehearses scenes
-actor.rehearses();
-//  action 3: collaborates with other actors
-actor.collaborates();
+actor.rehearsesScenes();
+//  action 3: plays a character
+actor.playsCharacter();
 
 
 
