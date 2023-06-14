@@ -52,84 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Athlete
+//  action 1: lifts weights
+athlete.liftsWeights();
+//  action 2: runs a race.
+athlete.runsRace();
+//  action 3: eats healthy
+athlete.eatsHealthy();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: farmer
+//  action 1: a farmer harvests crops.
+farmer.harvestCrops();
+//  action 2: a farmer milks cows.
+farmer.milksCows();
+//  action 3: a farmer feeds goats.
+farmer.feedsGoats();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Data Scientist
+//  action 1: Analyze data
+dataScientist.analyzeData();
+//  action 2: Cleans data
+dataScientist.cleansData();
+//  action 3: Builds models
+dataScientist.buildsModels();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Gardener
+//  action 1: a gardener plants flowers
+gardener.plantsFlowers();
+//  action 2: a gardener maintains a garden
+gardener.maintainsGarden();
+//  action 3: a gardener controls pests
+gardener.controlsPest();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Surgeon 
+//  action 1: a surgeon performs surgeries
+surgeon.performsSurgeries();
+//  action 2: a surgeon washes his hands.
+surgeon.washesHands();
+//  action 3: a surgeon stitches wounds
+surgeon.stitchesWounds();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Driver
+//  action 1: operates a vehicle
+driver.operatesVehicle();
+//  action 2: navigates routes
+driver.navigatesRoutes();
+//  action 3: transports goods
+driver.transportsGoods();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Engineer
+//  action 1: designs structures
+engineer.designsStructures();
+//  action 2: draws plans
+engineer.drawsPlans();
+//  action 3: measure distances
+engineer.measureDistances();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Detective
+//  action 1: investigates crimes
+detective.investigatesCrimes();
+//  action 2: gathers evidence
+detective.gathersEvidence();
+//  action 3: develops theories
+detective.developsTheories();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Writer
+//  action 1: writes books
+writer.writesBooks();
+//  action 2: conducts research
+writer.conductsResearch();
+//  action 3: edits work
+writer.editsWork();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Actor
+//  action 1: studies a script
+actor.studiesScript();
+//  action 2: rehearses scenes
+actor.rehearsesScenes();
+//  action 3: plays a character
+actor.playsCharacter();
 
 
 
