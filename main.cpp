@@ -76,7 +76,7 @@ dataScientist.analyzeData();
 //  action 2: Cleans data
 dataScientist.cleansData();
 //  action 3: Builds models
-dataScientist.modelModels();
+dataScientist.buildsModels();
 
 //  4)
 //  Noun: Gardener
